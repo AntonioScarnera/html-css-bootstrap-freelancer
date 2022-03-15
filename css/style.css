@@ -36,10 +36,30 @@ h1{
     font-size: 1.3em;
 }
 
+.circles{
+    border: 1px solid white;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50%;
+}
 
+
+
+
+#prefooter{
+    background-color: #3A546D;
+}
+footer{
+    background-color: #2C3E50;
+}
 
 .bg_green{
     background-color: #1ABC9C; 
+}
+.green_text{
+    color: #1ABC9C;
 }
 
 
