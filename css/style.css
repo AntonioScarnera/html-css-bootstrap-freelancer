@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.debug{
+    border: 1px solid black;
+}
+
+
+header{
+    width: 100%;
+    height: 90px;
+    background-color: #2C3E50;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#jumbo{
+    margin-top: 90px;
+    width: 100%;   
+}
+h1{
+    font-size: 2.5em;
+}
+.line{
+    border: 2px solid;
+    opacity: 1;
+    border-radius: 3px;
+}
+.fa-star{
+    font-size: 1.8em;
+}
+.sub-jumbo{
+    font-size: 1.3em;
+}
+
+
+
+.bg_green{
+    background-color: #1ABC9C; 
+}
+
+
+
+
+
+@media all and (min-width: 992px){
+    h1{
+        font-size: 3.5em;
+    }
+}
